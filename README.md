@@ -1,6 +1,5 @@
 
-
-**Easy jQuery PHP Captcha
+**Easy jQuery PHP Captcha**
 
 =============================================================
 
@@ -13,7 +12,7 @@ Setup a Captcha in seconds.
 
 =============================================================
 
-**Demo
+**Demo**
 
 http://jquery4u.com/demos/easy-jquery-php-captcha/
 
@@ -21,25 +20,24 @@ Powered by: jQuery, jQuery.validate, Require.js, Backbone.js, Bootstrap
 
 =============================================================
 
-**Download
+**Download**
 
 https://github.com/sdeering/easy-jquery-php-captcha
 
 =============================================================
 
-**Setup
+**Setup**
 
 http://jquery4u.com/validation/easy-jquery-php-captcha/
 
 =============================================================
 
-**Credits
+**Credits**
 
 jQuery4u
 
 Sam Deering
 
 99points
-http://www.99points.info/2010/08/ajax-stylish-captcha-and-contact-form-using-jquery-and-php/
 
 =============================================================
